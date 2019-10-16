@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql_Connection", "MySql_Connection\MySql_Connection.csproj", "{A0E87B1E-6517-467F-A18A-BC2C8FCC4EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E87B1E-6517-467F-A18A-BC2C8FCC4EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E87B1E-6517-467F-A18A-BC2C8FCC4EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E87B1E-6517-467F-A18A-BC2C8FCC4EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E87B1E-6517-467F-A18A-BC2C8FCC4EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D257CB85-71EA-41C6-A89F-D1C26C622EA3}
+	EndGlobalSection
+EndGlobal
